@@ -1,0 +1,34 @@
+* {
+  font-family: Roboto;
+}
+
+.thank-you-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+}
+
+.heart-image-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.heart-image-container .image {
+  width: 100px;
+}
+
+.thank-you-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.thank-you-container h1 {
+  font-weight: 300;
+}
+
+.thank-you-card .main-heading {
+  font-weight: 300;
+}
